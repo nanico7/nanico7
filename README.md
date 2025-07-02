@@ -13,7 +13,7 @@
 ### Tecnologias que já utilizei:
 
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) <br>
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7) <br>
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=f05033) <br>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=f05033)
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=Github&logoColor=000000)
